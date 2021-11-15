@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <string name="search">Search</string>
+    <string name="no_data">Sorry!</string>
+    <string name="no_data_description">Try searching different acronyms</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="empty_message">Try searching</string>
+    <string name="empty_message_description">need more than one letter without special characters</string>
+    <string name="no_network">Ops!\nplease check your network connection</string>
+    <string name="your_are_offline">Your are offline</string>
+    <string name="no_network_description">No data connection. Consider turing on mobile data or turing on Wi-Fi</string>
+    <string name="turn_on_setting">Turn on mobile data or Wi-Fi</string>
+</resources>
